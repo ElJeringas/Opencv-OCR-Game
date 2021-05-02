@@ -5,7 +5,8 @@ Hi friends, the code below was used to help to blind children to practice and le
 
 Before you run...Make sure to use the versions of libraries and python described in this page.
 
-(This code was developed early 2018 and finished in June2019 as degree project)
+(This code was developed early 2018 and finished in June2019 as degree project. Was tested in RaspberryPi3, Windows10, Ubuntu14.)
+
 
 Any Question please Mailme: santiagojss32@gmail.com
 
